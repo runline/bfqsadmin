@@ -1,4 +1,4 @@
-$('#admin).click(function()
+$('#admin').click(function()
 {
 	location.reload(true);
 }
